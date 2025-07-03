@@ -12,7 +12,7 @@
 
 ```mermaid 
 graph TD
-    subgraph OSI
+    subgraph OSI Model
         A7[Application Layer]
         A6[Presentation Layer]
         A5[Session Layer]
@@ -21,3 +21,8 @@ graph TD
         A2[Data Link Layer]
         A1[Physical Layer]
     end
+    subgraph TCP/IP Suite
+        A4[Application Layer]
+        A3[Transport Layer]
+        A2[Internet Layer]
+        A1[Network Access Layer]
