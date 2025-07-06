@@ -1,2 +1,7 @@
 week-01/day-03_packet-capture/artifacts/
 !week-01/day-03_packet-capture/artifacts/*.png
+
+# Day-4: ignore bulky or sensitive lists
+week-01/day-04_priv-perms/outputs/suid_files.txt
+*.pcap
+
